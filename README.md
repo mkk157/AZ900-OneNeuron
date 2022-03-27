@@ -1,2 +1,2 @@
 # AZ900-OneNeuron
-OneNeuron challenge for AZ900 exam
+This folder contain all the Assignments part of Azure Fundamentals course from OneNeuron ..
