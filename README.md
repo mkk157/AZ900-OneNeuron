@@ -2,10 +2,12 @@
 This folder contain all the Assignments part of Azure Fundamentals course from OneNeuron ..
 
 
-AZ=900 Exam
+# AZ=900 Exam - Quick References
 
 [Virtual Machine](https://docs.microsoft.com/en-us/azure/virtual-desktop/)
+
 [Azure Functions](https://https://docs.microsoft.com/en-us/azure/azure-functions/)
+
 [Azure SQL](https://docs.microsoft.com/en-us/azure/azure-sql/)
 
 
