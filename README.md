@@ -4,4 +4,8 @@ This folder contain all the Assignments part of Azure Fundamentals course from O
 
 AZ=900 Exam
 
-[I'm an inline-style link](https://www.google.com)
+[Virtual Machine](https://docs.microsoft.com/en-us/azure/virtual-desktop/)
+[Azure Functions](https://https://docs.microsoft.com/en-us/azure/azure-functions/)
+[Azure SQL](https://docs.microsoft.com/en-us/azure/azure-sql/)
+
+
