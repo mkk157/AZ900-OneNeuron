@@ -10,4 +10,12 @@ This folder contain all the Assignments part of Azure Fundamentals course from O
 
 [Azure SQL](https://docs.microsoft.com/en-us/azure/azure-sql/)
 
+[Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/)
 
+https://docs.microsoft.com/en-us/azure/machine-learning/
+
+# Datbases 
+
+* [Azure SQL](https://docs.microsoft.com/en-us/azure/azure-sql/)
+
+* [Azure SQL](https://docs.microsoft.com/en-us/azure/azure-sql/)
